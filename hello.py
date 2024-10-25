@@ -1,3 +1,4 @@
+
 from time import sleep
 import random
 from os import system
@@ -16,3 +17,18 @@ for i in range(len(result)):
             txt += ch
             break
 print((result+'\n')*10)
+=======
+print("Hello this is my PR!!!")
+
+print("DONE!!")
+word = "kingpin616"
+for letter in word:
+    print(letter)
+=======
+
+
+// I am using GeneratorExit
+
+//I am writing this line.
+
+
